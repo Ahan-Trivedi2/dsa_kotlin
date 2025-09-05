@@ -1,4 +1,4 @@
-Ahans work for DSA @ Olin Collehe of Engineering
+Ahans work for DSA @ Olin College of Engineering
 
-Fall '25
+Fall 2025
 
