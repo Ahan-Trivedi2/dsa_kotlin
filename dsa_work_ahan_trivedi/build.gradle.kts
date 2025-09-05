@@ -1,5 +1,6 @@
 plugins {
     kotlin("jvm") version "2.2.0"
+    application                      // 👈 add this
 }
 
 group = "org.example"
@@ -15,4 +16,9 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+}
+
+application {
+    // 👇 must match your package + file name
+    mainClass.set("test_script.MainKt")
 }
