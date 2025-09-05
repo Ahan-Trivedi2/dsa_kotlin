@@ -1,4 +1,5 @@
 package assignment_1
 
-class Main {
+fun main() {
+    println("Hello from Assignment 1!")
 }
