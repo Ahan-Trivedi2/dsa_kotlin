@@ -18,7 +18,4 @@ tasks.test {
     useJUnitPlatform()
 }
 
-application {
-    // 👇 must match your package + file name
-    mainClass.set("test_script.MainKt")
-}
+
